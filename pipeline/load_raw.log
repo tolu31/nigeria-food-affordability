@@ -1,0 +1,2 @@
+2026-11-18 23:30:17,888 INFO NGA_RTFP_mkt_2007_2026-11-02.csv -> raw.rtfp columns=137 db=17,686 source=17,686 MATCH (1.6s)
+2026-11-18 23:30:17,892 INFO Done: file loaded and reconciled
